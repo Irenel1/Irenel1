@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Irenel1
-- 👀 I’m interested in Project Managemant 
-- 🌱 I’m currently learning how to work with Git
+- 👀 I’m interested in Project and Product Managemant 
+- 🌱 I’m  learning how to work with Git
 
 
 <!---
